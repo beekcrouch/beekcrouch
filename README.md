@@ -16,6 +16,6 @@ Bachelors in Japanese Language and TESOL, Front End Web Development Student at T
 1. [LinkedIn](https://www.linkedin.com/in/brittkcrouch/)
 2. Currently coding my portfolio website :computer:
 
-![Image of a bee](bee-svgrepo-com.svg width=100)
+![Image of a bee](bee-svgrepo-com.svg | width=100)
 
 
