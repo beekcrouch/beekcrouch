@@ -6,8 +6,6 @@
 
 Nice to meet you! I am a firm supporter of LGBTQ rights :rainbow_flag: , diversity and inclusion, Black Lives Matter :fist_raised:, and communication. 
 
-<img align="right" width="100" height="100" src="bee-svgrepo-com.svg">
-
 An asipiring Web Developer, UI/UX Designer and a lifelong learner.
 Experienced in working with International Teams, and supporting teams. I would love to help Non-Profits with online presence and WCAG accessibility.
 
